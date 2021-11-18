@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-image: url(../images/Fondo.jpg);
+}
+main {
+    flex: 1 0 auto;
+}
+
+.carousel-item img{
+    height: 640px;
+}
+
+.card-image{
+    width: 500px;
+    height: 800px;
+}
+
+header{
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
